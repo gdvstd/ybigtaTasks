@@ -1,1 +1,0 @@
-Select CategoryID, count(*) as cnt from Products group by CategoryID
